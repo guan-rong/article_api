@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "supertest": "^6.3.3",
+    "uuid": "3.3.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
